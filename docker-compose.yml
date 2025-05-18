@@ -1,10 +1,8 @@
 version: '3'
 services:
-  TVS1:
-    image: zhangjiain/tvs1:latest
-    container_name: TVS1
+  waterctl:
+    image: zhangjiain/waterctl:latest
+    container_name: waterctl
     ports:
-      - "7788:80"
-    environment:
-      - PASSWORD=TVS1
+      - "7484:80"
     restart: unless-stopped
