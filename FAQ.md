@@ -18,8 +18,6 @@
 | Chromium                    | Cromite        |        |              |
 | Vivaldi                     | Vivaldi        |        |              |
 | Arc                         | 三星浏览器     |        |              |
-|                             | Ecosia         |        |              |
-|                             | Kiwi Browser   |        |              |
 
 **强烈不建议使用国产浏览器。**
 
