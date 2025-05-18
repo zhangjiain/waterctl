@@ -1,4 +1,3 @@
-version: '3'
 services:
   waterctl:
     image: zhangjiain/waterctl:latest
